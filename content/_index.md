@@ -64,6 +64,7 @@ sections:
       subtitle:
       text: |-
       # Contact (add or remove contact options as necessary)
+
       Email: zeyun.bei@my.cityu.edu.hk
       Tel: +852 94746269
     design:
