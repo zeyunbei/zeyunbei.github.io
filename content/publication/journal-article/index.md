@@ -18,5 +18,8 @@ publishDate: "2024-03-01T00:00:00Z"
 # Enter a publication type from the CSL standard.
 publication_types: ["article-journal"]
 
+# Publication name and optional abbreviated publication name.
+publication: *Journal of International Money and Finance, Forthcoming*
+publication_short: 
 ---
 
