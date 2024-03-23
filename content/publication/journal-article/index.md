@@ -1,7 +1,7 @@
 ---
 title: "No Safe Haven, Only Diversification and Contagion --- Intraday Evidence around the COVID-19 Pandemic"
 authors:
-- admin
+- Zeyun Bei
 - Juan Lin
 - Yinggnag Zhou
 #author_notes:
