@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-   - block: hero
+  - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
       title: Hugo Academic Theme
@@ -64,9 +64,7 @@ sections:
       subtitle:
       text: |-
       # Contact (add or remove contact options as necessary)
-
       Email: zeyun.bei@my.cityu.edu.hk
-      Tel: +852 94746269
     design:
       columns: '2'
 ---
