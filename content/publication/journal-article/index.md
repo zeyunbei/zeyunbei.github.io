@@ -20,6 +20,6 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: *Journal of International Money and Finance, Forthcoming*
-publication_short: 
+publication_short: ''
 ---
 
