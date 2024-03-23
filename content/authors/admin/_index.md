@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 贝泽赟
+title: BEI Zeyun (贝泽赟)
 
 # Name pronunciation (optional)
-name_pronunciation: Zeyun Bei
+#name_pronunciation: Zeyun Bei
 
 # Full name (for SEO)
 first_name: Zeyun
