@@ -64,7 +64,7 @@ sections:
       subtitle:
       text: |-
       # Contact (add or remove contact options as necessary)
-      Email: zeyun.bei@my.cityu.edu.hk
+      email: zeyun.bei@my.cityu.edu.hk
     design:
       columns: '2'
 ---
