@@ -127,5 +127,4 @@ I’m currently a 5th-year PhD candidate from City University of Hong Kong and X
 
 I am very fortunate to be advised by Prof. Yaxuan Qi from City University of Hong Kong and Prof. Yinggang Zhou from Xiamen University.
 
-Email: zeyun.bei@my.cityu.edu.hk
 {style="text-align: justify;"}
