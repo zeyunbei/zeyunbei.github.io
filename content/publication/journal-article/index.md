@@ -19,7 +19,7 @@ publishDate: "2024-03-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: *Journal of International Money and Finance, Forthcoming*
+publication: '*Journal of International Money and Finance, Forthcoming*'
 publication_short: ''
 ---
 
