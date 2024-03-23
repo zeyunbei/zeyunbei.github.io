@@ -18,7 +18,7 @@ publishDate: "2021-11-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: '计量经济学报'
+publication: '计量经济学报, 1(4), 814'
 publication_short: ''
 ---
 

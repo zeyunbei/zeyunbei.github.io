@@ -19,7 +19,7 @@ publishDate: "2023-11-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: '国际金融研究'
+publication: '国际金融研究, 10:16-27.'
 publication_short: ''
 ---
 
