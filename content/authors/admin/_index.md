@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 贝泽赟
+title: BEI Zeyun (贝泽赟)
 
 # Name pronunciation (optional)
-name_pronunciation: Zeyun Bei
+#name_pronunciation: Zeyun Bei
 
 # Full name (for SEO)
 first_name: Zeyun
@@ -123,7 +123,7 @@ highlight_name: true
 ---
 
 
-I’m currently a 5th-year PhD candidate from City University of Hong Kong and Xiamen University. My research falls into the fields of asset pricing, corporate finance, political risk management, and global supply chains. Before studying in CityU and XMU, I graduated from Hunan University with a bachelor’s degree in Finance.
+I’m currently a 5th-year PhD candidate from City University of Hong Kong and Xiamen University. My research falls into the fields of asset pricing, corporate finance, political risk, and global supply chains. Before studying in CityU and XMU, I graduated from Hunan University with a bachelor’s degree in Finance.
 
 I am very fortunate to be advised by Prof. Yaxuan Qi from City University of Hong Kong and Prof. Yinggang Zhou from Xiamen University.
 
