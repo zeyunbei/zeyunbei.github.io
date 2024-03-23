@@ -1,8 +1,8 @@
 ---
 title: "中国国债期货与现货市场间的动态价格发现与不对称波动性溢出"
 authors:
-- 贝泽赟
 - 周颖刚
+- 贝泽赟
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
