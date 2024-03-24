@@ -3,7 +3,7 @@ title: "No Safe Haven, Only Diversification and Contagion --- Intraday Evidence 
 authors:
 - Zeyun Bei
 - Juan Lin
-- Yinggnag Zhou
+- Yinggang Zhou
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
