@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Zeyun Bei's homepage # Website name
+title: Zeyun Bei's homepage|贝泽赟 # Website name
 baseURL: 'https://zeyunbei.github.io/' # Website URL
 
 ############################
